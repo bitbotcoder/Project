@@ -1,2 +1,2 @@
 # Project
-## Lending Case Study - Upgrad
+## Lending Case Study
